@@ -1,4 +1,6 @@
-# Instagram-Clone-using-React-Native-and-Firebase 
+# Instagram Clone using React Native, Google Firebase, Firestore, Firebase Storage, Redux and Expo
+
+ 
 
 # 💻 Install
 
